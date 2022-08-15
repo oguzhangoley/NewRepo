@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "src\demoP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\demoProjects\rentACar\Persistence\Persistence.csproj", "{0CDF1C8D-C78F-4992-8B8A-280307ACD3A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "src\demoProjects\rentACar\WebAPI\WebAPI.csproj", "{0B1A006D-E7B8-401C-A3E6-2A2BAAA24B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{0CDF1C8D-C78F-4992-8B8A-280307ACD3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CDF1C8D-C78F-4992-8B8A-280307ACD3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CDF1C8D-C78F-4992-8B8A-280307ACD3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1A006D-E7B8-401C-A3E6-2A2BAAA24B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1A006D-E7B8-401C-A3E6-2A2BAAA24B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1A006D-E7B8-401C-A3E6-2A2BAAA24B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1A006D-E7B8-401C-A3E6-2A2BAAA24B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +141,7 @@ Global
 		{73FB1615-4043-4471-88F5-D0FC2059FE48} = {7B798FE5-5445-42B7-A5BB-C51CEF24C5C5}
 		{A18FA37C-8959-4C47-BA04-5740AF700788} = {7B798FE5-5445-42B7-A5BB-C51CEF24C5C5}
 		{0CDF1C8D-C78F-4992-8B8A-280307ACD3A5} = {7B798FE5-5445-42B7-A5BB-C51CEF24C5C5}
+		{0B1A006D-E7B8-401C-A3E6-2A2BAAA24B05} = {7B798FE5-5445-42B7-A5BB-C51CEF24C5C5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C127633B-AB1B-43AE-A516-DCF06F13F757}
