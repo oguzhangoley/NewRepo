@@ -35,15 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\demoProj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "src\demoProjects\templateProject\WebAPI\WebAPI.csproj", "{54568B1F-31E7-4BA3-A2ED-826E85050603}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "renACar", "renACar", "{7B798FE5-5445-42B7-A5BB-C51CEF24C5C5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rentACar", "rentACar", "{7B798FE5-5445-42B7-A5BB-C51CEF24C5C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\demoProjects\rentACar\Application\Application.csproj", "{D3D4F491-1BE5-402E-965B-552F8CFA7DF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\demoProjects\rentACar\Application\Application.csproj", "{D3D4F491-1BE5-402E-965B-552F8CFA7DF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\demoProjects\rentACar\Domain\Domain.csproj", "{73FB1615-4043-4471-88F5-D0FC2059FE48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\demoProjects\rentACar\Domain\Domain.csproj", "{73FB1615-4043-4471-88F5-D0FC2059FE48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "src\demoProjects\rentACar\Infrastructure\Infrastructure.csproj", "{A18FA37C-8959-4C47-BA04-5740AF700788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "src\demoProjects\rentACar\Infrastructure\Infrastructure.csproj", "{A18FA37C-8959-4C47-BA04-5740AF700788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "src\demoProjects\rentACar\Persistence\Persistence.csproj", "{0CDF1C8D-C78F-4992-8B8A-280307ACD3A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\demoProjects\rentACar\Persistence\Persistence.csproj", "{0CDF1C8D-C78F-4992-8B8A-280307ACD3A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
